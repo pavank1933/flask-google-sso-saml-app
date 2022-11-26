@@ -1,0 +1,3 @@
+pysaml2
+Flask
+requests
